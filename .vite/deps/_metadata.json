@@ -1,0 +1,34 @@
+{
+  "hash": "4ae77254",
+  "configHash": "57e21ce4",
+  "lockfileHash": "ceaadb7b",
+  "browserHash": "ec95bb56",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "7a904d83",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "c7306a2c",
+      "needsInterop": true
+    },
+    "recharts": {
+      "src": "../../node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "77067cdd",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-EAHRZZXL": {
+      "file": "chunk-EAHRZZXL.js"
+    },
+    "chunk-VBQJHASZ": {
+      "file": "chunk-VBQJHASZ.js"
+    }
+  }
+}
